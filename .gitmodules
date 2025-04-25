@@ -1,0 +1,3 @@
+[submodule "pagemap"]
+	path = pagemap
+	url = https://github.com/dwks/pagemap.git
