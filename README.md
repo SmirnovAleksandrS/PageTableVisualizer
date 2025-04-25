@@ -58,3 +58,16 @@ python3 pt_walk.py -n myapp -s [anon]
 - `alloc_test.c` — короткая програмка для проверки работоспособности.
 
 ---
+
+## Установка
+
+Скачать репозиторий с зависимостями
+```bash
+git clone --recursive https://github.com/SmirnovAleksandrS/PageTableVisualizer.git
+```
+
+Дальше собрать все
+
+```bash
+make
+```
